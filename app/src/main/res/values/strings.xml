@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Restaurant Mobile App</string>
+    <string name="app_name">Mobile Restaurant App</string>
     <string name="title_home">Restaurant App</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
